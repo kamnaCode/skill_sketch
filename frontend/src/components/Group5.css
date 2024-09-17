@@ -1,0 +1,173 @@
+.group-5
+.group-5 * {
+  box-sizing: border-box;
+}
+.group-5 {
+  flex-shrink: 0;
+  height: 491px;
+  position: relative;
+}
+.group-5 .rectangle-19 {
+  background: radial-gradient(
+    closest-side,
+    rgba(140, 134, 236, 1) 1.4999999664723873%,
+    rgba(140, 134, 236, 1) 9.860817342996597%,
+    rgba(79, 76, 134, 1) 80.00914454460144%
+  );
+  border-radius: 40px;
+  opacity: 0.9;
+  width: 1437px;
+  height: 491px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  box-shadow: inset 0px 4px 40px 0px rgba(0, 0, 0, 0.25);
+}
+.group-5 .rectangle-20 {
+  background: radial-gradient(
+    closest-side,
+    rgba(140, 134, 236, 1) 1.4999999664723873%,
+    rgba(140, 134, 236, 1) 9.860817342996597%,
+    rgba(79, 76, 134, 1) 80.00914454460144%
+  );
+  border-radius: 40px;
+  opacity: 0.9;
+  width: 1437px;
+  height: 491px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  box-shadow: inset 0px 4px 40px 0px rgba(0, 0, 0, 0.25);
+}
+.group-5 .line-2 {
+  width: 220px;
+  height: 0px;
+  position: absolute;
+  left: 58px;
+  top: 79px;
+  overflow: visible;
+}
+.group-5 .how-it-works {
+  color: #0a0a0c;
+  text-align: center;
+  font-family: "Inika-Bold", sans-serif;
+  font-size: 32px;
+  font-weight: 700;
+  position: absolute;
+  left: 64px;
+  top: 27px;
+}
+.group-5 .ellipse-1 {
+  width: 239px;
+  height: 224px;
+  position: absolute;
+  left: 39px;
+  top: 121px;
+  overflow: visible;
+}
+.group-5 .ellipse-2-instance {
+  position: absolute !important;
+  left: 406px !important;
+  top: 121px !important;
+}
+.group-5 .ellipse-3-instance {
+  position: absolute !important;
+  left: 770px !important;
+  top: 121px !important;
+}
+.group-5 .ellipse-4-instance {
+  position: absolute !important;
+  left: 1123px !important;
+  top: 121px !important;
+}
+.group-5 .step-1-input-your-project-details {
+  color: #f7f0f0;
+  text-align: center;
+  font-family: "Inika-Bold", sans-serif;
+  font-size: 18px;
+  font-weight: 700;
+  position: absolute;
+  left: 24px;
+  top: 362px;
+}
+.group-5 .step-2-convert-to-professional-entries {
+  color: #f7f0f0;
+  text-align: center;
+  font-family: "Inika-Bold", sans-serif;
+  font-size: 18px;
+  font-weight: 700;
+  position: absolute;
+  left: 368px;
+  top: 362px;
+}
+.group-5 .step-3-build-your-career-journal {
+  color: #f7f0f0;
+  text-align: center;
+  font-family: "Inika-Bold", sans-serif;
+  font-size: 18px;
+  font-weight: 700;
+  position: absolute;
+  left: 762px;
+  top: 362px;
+  width: 274px;
+  height: 22px;
+}
+.group-5 .step-4-generate-tailored-c-vs {
+  color: #f7f0f0;
+  text-align: center;
+  font-family: "Inika-Bold", sans-serif;
+  font-size: 18px;
+  font-weight: 700;
+  position: absolute;
+  left: 1123px;
+  top: 362px;
+}
+.group-5
+  .easily-enter-details-about-your-current-projects-including-title-description-tasks-and-outcomes {
+  color: #fcf9f9;
+  text-align: center;
+  font-family: "Inika-Bold", sans-serif;
+  font-size: 18px;
+  font-weight: 700;
+  position: absolute;
+  left: 66px;
+  top: 176px;
+  width: 186px;
+}
+.group-5
+  .maintain-a-chronological-journal-of-your-work-experiences-skills-and-achievements-accessible-anytime {
+  color: #faf9f9;
+  text-align: center;
+  font-family: "Inika-Bold", sans-serif;
+  font-size: 18px;
+  font-weight: 700;
+  position: absolute;
+  left: 797px;
+  top: 159px;
+  width: 186px;
+}
+.group-5
+  .create-customized-c-vs-based-on-your-journal-entries-and-specific-job-descriptions-ensuring-you-always-put-your-best-foot-forward {
+  color: #fdf6f6;
+  text-align: center;
+  font-family: "Inika-Bold", sans-serif;
+  font-size: 18px;
+  font-weight: 700;
+  position: absolute;
+  left: 1150px;
+  top: 154px;
+  width: 186px;
+}
+.group-5
+  .leverage-the-power-of-ai-to-convert-your-input-into-polished-professional-journal-entries {
+  color: #fff9f9;
+  text-align: center;
+  font-family: "Inika-Bold", sans-serif;
+  font-size: 18px;
+  font-weight: 700;
+  position: absolute;
+  left: 430px;
+  top: 181px;
+  width: 192px;
+  height: 120px;
+}

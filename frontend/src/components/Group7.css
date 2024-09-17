@@ -1,0 +1,105 @@
+.group-7,
+.group-7 * {
+  box-sizing: border-box;
+}
+.group-7 {
+  flex-shrink: 0;
+  height: 520px;
+  position: relative;
+}
+.group-7 .cover-4 {
+  background: linear-gradient(
+    180deg,
+    rgba(80, 70, 134, 1) 0%,
+    rgba(19, 17, 32, 1) 100%
+  );
+  border-radius: 40px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  opacity: 0.8;
+  width: 1433px;
+  height: 520px;
+  position: absolute;
+  left: calc(50% - 716.5px);
+  bottom: 0px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.group-7 .group-4 {
+  width: 1284px;
+  height: 84px;
+  position: static;
+}
+.group-7 .skill-sketch {
+  color: #fbfaff;
+  text-align: center;
+  font-family: "Inika-Bold", sans-serif;
+  font-size: 40px;
+  font-weight: 700;
+  position: absolute;
+  left: 66px;
+  top: 58px;
+}
+.group-7 .sketching-skills-one-project-at-a-time {
+  color: #fbfaff;
+  text-align: left;
+  font-family: "Inika-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  position: absolute;
+  left: 66px;
+  top: 116px;
+}
+.group-7 .home {
+  color: #fbfaff;
+  text-align: center;
+  font-family: "Inika-Bold", sans-serif;
+  font-size: 18px;
+  font-weight: 700;
+  position: absolute;
+  left: 1111px;
+  top: 75px;
+}
+.group-7 .login {
+  color: #fbfaff;
+  text-align: center;
+  font-family: "Inika-Bold", sans-serif;
+  font-size: 18px;
+  font-weight: 700;
+  position: absolute;
+  left: 1202px;
+  top: 75px;
+}
+.group-7 .signup {
+  color: #fbfaff;
+  text-align: center;
+  font-family: "Inika-Bold", sans-serif;
+  font-size: 18px;
+  font-weight: 700;
+  position: absolute;
+  left: 1292px;
+  top: 75px;
+}
+.group-7
+  .welcome-to-skill-sketch-your-personalized-platform-for-transforming-everyday-projects-into-powerful-career-assets-whether-you-re-working-on-a-new-assignment-completing-a-challenging-task-or-honing-your-skills-skill-sketch-helps-you-document-your-journey-with-precision-and-professionalism-with-our-ai-powered-tools-you-can-effortlessly-convert-your-work-experiences-into-polished-journal-entries-building-a-comprehensive-career-portfolio-that-showcases-your-growth-when-it-s-time-to-take-the-next-step-skill-sketch-makes-it-easy-to-generate-tailored-c-vs-that-highlight-your-unique-talents-and-achievements-all-drawn-from-your-meticulously-maintained-journal-start-sketching-your-skills-today-one-project-at-a-time {
+  color: #fbfaff;
+  text-align: center;
+  font-family: "Inika-Regular", sans-serif;
+  font-size: 20px;
+  letter-spacing: 0.1em;
+  font-weight: 400;
+  position: absolute;
+  left: 23px;
+  top: 272px;
+  width: 1369px;
+  height: 182px;
+  -webkit-text-stroke: 1px rgba(0, 0, 0, 0);
+}
+.group-7 .line-1 {
+  width: 1326px;
+  height: 35.56px;
+  position: absolute;
+  left: 51px;
+  top: 191.94px;
+  overflow: visible;
+}
